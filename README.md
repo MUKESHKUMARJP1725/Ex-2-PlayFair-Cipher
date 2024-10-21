@@ -153,6 +153,8 @@ int main() {
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/0a99c975-4b53-4503-aeed-60bd913cf600)
+
 ## RESULT:
 
 The program is executed successfully
