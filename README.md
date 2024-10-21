@@ -1,4 +1,4 @@
-# Ex-1 PlayFair Cipher
+# Ex-2 PlayFair Cipher
 
 ## AIM:
 
