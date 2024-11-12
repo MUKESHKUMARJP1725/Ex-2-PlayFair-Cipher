@@ -1,14 +1,18 @@
 # Ex-2 PlayFair Cipher
 
+### DATE:
+
+Playfair Cipher using with different ket values.
+
 ## AIM:
 
 To implement a program to encrypt a plain text and decrypt a cipher text using play fair Cipher substitution technique.
 
 ## DESIGN STEPS:
 
-Step 1: Design of PlayFair Cipher algorithnm
+Step 1: Design of PlayFair Cipher algorithnm.
 
-Step 2: Implementation using C or pyhton code
+Step 2: Implementation using C or pyhton code.
 
 Step 3: Testing algorithm with different key values.
 
